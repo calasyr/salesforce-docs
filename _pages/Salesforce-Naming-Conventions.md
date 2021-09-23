@@ -32,7 +32,7 @@ ____
 ### 2. Custom Fields
 
 ##### Rules for Naming
-Custom object names should be unique, beginning with an uppercase letter. Whole words should be used and use of acronyms and abbreviations should be limited. Similar to custom object naming, custom fields should not contain any underscores "_". When creating custom fields always complete the “Description” field unless the field name would be completely obvious to someone not familiar to the application as to what is the purpose of the field.
+Custom field names should be unique, beginning with an uppercase letter. Whole words should be used and use of acronyms and abbreviations should be limited. Similar to custom object naming, custom fields should not contain any underscores "_". When creating custom fields always complete the “Description” field unless the field name would be completely obvious to someone not familiar to the application as to what is the purpose of the field.
 
 ##### Exceptions
 
